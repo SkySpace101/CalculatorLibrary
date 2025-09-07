@@ -3,7 +3,7 @@ version: 2.7
 jobs:
   build:
     docker:
-      - image: circleci/python:3.12.11-trixie
+      - image: circleci/python:bookworm
 
     working_directory: ~/repo
 
