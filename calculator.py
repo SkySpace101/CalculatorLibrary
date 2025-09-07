@@ -19,7 +19,6 @@ def multiply(first_term: float, second_term: float) -> float:
     return first_term * second_term
 
 
-def divide(first_term:float, second_term: float) -> float:
+def divide(first_term:float, second_term: float) -> float: 
     """ return the division of first term by second term."""
     return first_term / second_term
-
