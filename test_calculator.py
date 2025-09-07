@@ -23,3 +23,6 @@ class TestCalculator:
 
     def test_division(self):
         assert 4.0 == calculator.divide(16, 4)
+
+    def test_power(self):
+        assert 8 == calculator.power(2, 3)
