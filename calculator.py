@@ -14,6 +14,6 @@ def subtract(first_term: float, second_term: float) -> float:
     return first_term - second_term
 
 
-def mulitply(first_term: float, second_term: float) -> float:
+def multiply(first_term: float, second_term: float) -> float:
     """ return the product of the arguments"""
     return first_term * second_term
